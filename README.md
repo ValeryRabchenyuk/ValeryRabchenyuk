@@ -1,25 +1,25 @@
-<table>
-<tr>
-<td width="50%">
-
-### Привет! Я Лера, аудиовизуальный переводчик и Python-разработчик.
-
-### Как дела:
-- В 2025 закончила обучение на Python-разработчика в Яндекс Практикуме
-- Прослушала курс лекция HarvardX CS50P: CS50's Introduction to Programming with Python, а так же прошла курсы по Python, SQL, AIOgram, FastAPI и Linux на stepik.org
-- Продолжаю обучаться новым технологиям
-</td>
-<td width="100%">
-
-### Hi, my name's Valery (but friends call me V). I'm an audiovisual translator and a Python developer.
-How it's going so far:
-- Completed Yandex Practicum’s professional training course '_Python Developer_' in 2025
-- Completed the _HarvardX CS50P course: CS50's Introduction to Programming with Python_, as well as courses on Python, SQL, AIOgram, FastAPI, and Linux on Stepik.org
-- Continuously learning new technologies
-</td>
-</tr>
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr>
+    <td width="50%" style="border: none; vertical-align: top; padding: 10px;">
+      <h3>Привет! Я Лера, аудиовизуальный переводчик и Python-разработчик.</h3>
+      <h3>Как дела:</h3>
+      <ul>
+        <li>В 2025 закончила обучение на Python-разработчика в Яндекс Практикуме</li>
+        <li>Прослушала курс лекций HarvardX CS50P: CS50's Introduction to Programming with Python, а также прошла курсы по Python, SQL, AIOgram, FastAPI и Linux на stepik.org</li>
+        <li>Продолжаю обучаться новым технологиям</li>
+      </ul>
+    </td>
+    <td width="50%" style="border: none; vertical-align: top; padding: 10px;">
+      <h3>Hi, my name's Valery (but friends call me V). I'm an audiovisual translator and a Python developer.</h3>
+      <h3>How it's going so far:</h3>
+      <ul>
+        <li>Completed Yandex Practicum’s professional training course <em>Python Developer</em> in 2025</li>
+        <li>Completed the <em>HarvardX CS50P course: CS50's Introduction to Programming with Python</em>, as well as courses on Python, SQL, AIOgram, FastAPI, and Linux on Stepik.org</li>
+        <li>Continuously learning new technologies</li>
+      </ul>
+    </td>
+  </tr>
 </table>
-
 
 
 ### :calling: Контакты | Contacts:
