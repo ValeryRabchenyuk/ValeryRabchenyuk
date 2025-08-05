@@ -1,18 +1,18 @@
-### Привет! Я Лера. 
-
-### :calling: Контакты:
-
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white&logoSize=auto&labelColor=014f86&color=014f86
-)](https://t.me/vr2306) [![Mail](https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&logoColor=white&logoSize=auto&labelColor=b7094c&color=b7094c)](mailto:valery0623@gmail.com)
+### Привет! Я Лера, аудиовизуальный переводчик и Python-разработчик.
 
 ### :motorway: Мой путь:
 - Прослушала курс лекция HarvardX CS50P: CS50's Introduction to Programming with Python, а так эе прошла курса по Python, SQL, AIOgram, FastAPI и Linux на stepik.org
 - В 2025 закончилf обучение на Python-разработчика в Яндекс Практикуме
 - Продолжаю обучаться новым технологиям
 
+### :calling: Контакты:
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white&logoSize=auto&labelColor=014f86&color=014f86
+)](https://t.me/vr2306) [![Mail](https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&logoColor=white&logoSize=auto&labelColor=b7094c&color=b7094c)](mailto:valery0623@gmail.com)
+
 ---
 
-### :nut_and_bolt: Мой стек:
+### Мой стек:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
