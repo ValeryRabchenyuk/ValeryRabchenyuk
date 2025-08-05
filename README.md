@@ -1,32 +1,35 @@
 <table>
 <tr>
-<td width="200%">
+<td width="100%">
 
 ### Привет! Я Лера, аудиовизуальный переводчик и Python-разработчик.
 
 ### Как дела:
-- Прослушала курс лекция HarvardX CS50P: CS50's Introduction to Programming with Python, а так эе прошла курса по Python, SQL, AIOgram, FastAPI и Linux на stepik.org
-- В 2025 закончилf обучение на Python-разработчика в Яндекс Практикуме
+- В 2025 закончила обучение на Python-разработчика в Яндекс Практикуме
+- Прослушала курс лекция HarvardX CS50P: CS50's Introduction to Programming with Python, а так же прошла курсы по Python, SQL, AIOgram, FastAPI и Linux на stepik.org
 - Продолжаю обучаться новым технологиям
 </td>
-<td width="200%">
+<td width="100%">
 
-### Правая колонка
-Текст справа...
+### Hi, my name's Valery (but friends call me V). I'm an audiovisual translator and a Python developer.
+How it's going so far:
+- Completed Yandex Practicum’s professional training course '_Python Developer_' in 2025
+- Completed the _HarvardX CS50P course: CS50's Introduction to Programming with Python_, as well as courses on Python, SQL, AIOgram, FastAPI, and Linux on Stepik.org
+- Continuously learning new technologies
 </td>
 </tr>
 </table>
 
 
 
-### :calling: Контакты:
+### :calling: Контакты | Contacts:
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white&logoSize=auto&labelColor=014f86&color=014f86
 )](https://t.me/vr2306) [![Mail](https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&logoColor=white&logoSize=auto&labelColor=b7094c&color=b7094c)](mailto:valery0623@gmail.com)
 
 ---
 
-### Мой стек:
+### Cтек | Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
