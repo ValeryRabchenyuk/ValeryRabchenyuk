@@ -6,7 +6,8 @@
 
 **Как дела:**
 - В 2025 закончила обучение на Python-разработчика в Яндекс Практикуме  
-- Прослушала курс лекций HarvardX CS50P: *CS50's Introduction to Programming with Python*, а также прошла курсы по Python, SQL, AIOgram, FastAPI и Linux на Stepik.org  
+- Прослушала курс лекций HarvardX CS50P: *CS50's Introduction to Programming with Python*
+- Прошла курсы по Python, SQL, AIOgram, FastAPI и Linux на Stepik.org  
 - Продолжаю обучаться новым технологиям
 
     </td>
@@ -16,7 +17,8 @@
 
 **How it's going so far:**
 - Completed Yandex Practicum’s professional training course *Python Developer* in 2025  
-- Completed the *HarvardX CS50P course: CS50's Introduction to Programming with Python*, as well as courses on Python, SQL, AIOgram, FastAPI, and Linux on Stepik.org  
+- Completed the *HarvardX CS50P course: CS50's Introduction to Programming with Python*
+- Took additional courses on Python, SQL, AIOgram, FastAPI, and Linux on Stepik.org
 - Continuously learning new technologies
 
     </td>
