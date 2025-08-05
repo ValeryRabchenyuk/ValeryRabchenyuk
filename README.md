@@ -1,6 +1,6 @@
 ### Привет! Я Лера, аудиовизуальный переводчик и Python-разработчик.
 
-### :motorway: Мой путь:
+### Как дела:
 - Прослушала курс лекция HarvardX CS50P: CS50's Introduction to Programming with Python, а так эе прошла курса по Python, SQL, AIOgram, FastAPI и Linux на stepik.org
 - В 2025 закончилf обучение на Python-разработчика в Яндекс Практикуме
 - Продолжаю обучаться новым технологиям
