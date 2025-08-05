@@ -2,7 +2,8 @@
   <tr>
     <td width="50%" valign="top">
 
-<h3>Привет! Я Лера, аудиовизуальный переводчик и Python-разработчик.</h3>
+<h3>Привет! Я Лера,
+  аудиовизуальный переводчик и Python-разработчик.</h3>
 
 **Как дела:**
 - В 2025 закончила обучение на Python-разработчика в Яндекс Практикуме  
@@ -13,7 +14,8 @@
     </td>
     <td width="50%" valign="top">
 
-<h3>Hi, my name's Valery (but friends call me V). I'm an audiovisual translator and a Python developer.</h3>
+<h3>Hi, my name's Valery (but friends call me V).
+  I'm an audiovisual translator and a Python developer.</h3>
 
 **How it's going so far:**
 - Completed Yandex Practicum’s professional training course *Python Developer* in 2025  
