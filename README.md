@@ -5,6 +5,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white&logoSize=auto&labelColor=014f86&color=014f86
 )](https://t.me/vr2306) [![Mail]([https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&logoColor=white&logoSize=auto&labelColor=b7094c&color=b7094c
 )](mailto:valery0623@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&logoColor=white&logoSize=auto&labelColor=b7094c&color=b7094c)](mailto:valery0623@gmail.com)
 
 ### :motorway: Мой путь:
 - Прослушала курс лекция HarvardX CS50P: CS50's Introduction to Programming with Python, а так эе прошла курса по Python, SQL, AIOgram, FastAPI и Linux на stepik.org
